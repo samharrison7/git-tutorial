@@ -12,4 +12,4 @@ program hello_world
     print *, "Hello world!"
     print *, "The date is ", date
     print *, "The time is ", time
-end program hello_world
+end program
